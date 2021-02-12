@@ -1,0 +1,28 @@
+{
+  "name": "web-derver",
+  "version": "1.0.0",
+  "description": "web_assignment",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "lite" : "lite-server",
+    "test": "web_tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munyaradzi-Chigangawa/my-web.git"
+  },
+  "keywords": [
+    "webdev"
+  ],
+  "author": "Munyaradzi Chigangawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munyaradzi-Chigangawa/my-web/issues"
+  },
+  "homepage": "https://github.com/Munyaradzi-Chigangawa/my-web#readme"
+}
